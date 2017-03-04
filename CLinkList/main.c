@@ -4,7 +4,7 @@
 // 0x0000000100202b10 head
 // 0x0000000100600200 findedHead
 //  Created by 王亓泰 on 16/4/13.
-//  Copyright © 2016年 QianFeng. All rights reserved.
+// 
 //
 
 // 测试数据
